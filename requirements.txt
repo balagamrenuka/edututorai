@@ -1,0 +1,39 @@
+# === Core Dependencies ===
+streamlit>=1.22.0
+python-dotenv>=0.21.0
+google-auth-oauthlib>=1.0.0
+google-auth
+google-auth-oauthlib
+google-api-python-client
+
+# === LangChain & OpenAI AI Functionality ===
+langchain==0.1.16
+langchain-openai==0.0.5
+langchain-community==0.0.36
+openai>=1.3.0
+tiktoken==0.5.2
+transformers>=4.33.0
+torch>=2.0.0
+bcrypt
+
+# === PDF Q&A Dependencies ===
+pypdf
+PyPDF2>=3.0.0
+faiss-cpu==1.7.4
+
+# === Vector Embeddings & NLP ===
+sentence-transformers>=2.2.2
+
+# === Gemini AI Chat ===
+google-generativeai>=0.4.1
+
+# === Data Processing & Plotting ===
+pandas>=1.5.3
+numpy>=1.23.5
+plotly>=5.10.0
+
+# === Database (SQLite) ===
+SQLAlchemy>=2.0.23
+
+# === Utility ===
+requests>=2.31.0
