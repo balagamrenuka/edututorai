@@ -1,0 +1,86 @@
+{
+  "math": {
+    "algebra": {
+      "easy": [
+        {
+          "question": "What is 2 + 2?",
+          "options": ["1", "2", "3", "4"],
+          "correct_option": 4
+        },
+        {
+          "question": "Solve for x: x + 3 = 5",
+          "options": ["1", "2", "3", "4"],
+          "correct_option": 2
+        },
+        {
+          "question": "What is the value of x in 3x = 9?",
+          "options": ["1", "2", "3", "4"],
+          "correct_option": 3
+        }
+      ]
+    }
+  },
+  "science": {
+    "physics": {
+      "easy": [
+        {
+          "question": "What is the force of gravity on Earth?",
+          "options": ["9.8 m/s²", "10 m/s²", "1 m/s²", "5 m/s²"],
+          "correct_option": 1
+        },
+        {
+          "question": "What is H2O commonly known as?",
+          "options": ["Salt", "Hydrogen", "Oxygen", "Water"],
+          "correct_option": 4
+        },
+        {
+          "question": "Which planet is known as the Red Planet?",
+          "options": ["Earth", "Mars", "Jupiter", "Venus"],
+          "correct_option": 2
+        }
+      ]
+    }
+  },
+  "english": {
+    "grammar": {
+      "easy": [
+        {
+          "question": "Choose the correct plural form: 'Child'",
+          "options": ["Childs", "Childes", "Children", "Childer"],
+          "correct_option": 3
+        },
+        {
+          "question": "What is the verb in the sentence: 'She runs fast'?",
+          "options": ["She", "Runs", "Fast", "None"],
+          "correct_option": 2
+        },
+        {
+          "question": "What is a synonym for 'happy'?",
+          "options": ["Sad", "Angry", "Joyful", "Tired"],
+          "correct_option": 3
+        }
+      ]
+    }
+  },
+  "history": {
+    "world history": {
+      "easy": [
+        {
+          "question": "Who discovered America?",
+          "options": ["Christopher Columbus", "Newton", "Einstein", "Gandhi"],
+          "correct_option": 1
+        },
+        {
+          "question": "In which year did World War II end?",
+          "options": ["1945", "1939", "1918", "1965"],
+          "correct_option": 1
+        },
+        {
+          "question": "Who was the first President of the USA?",
+          "options": ["George Washington", "Abraham Lincoln", "John Adams", "Thomas Jefferson"],
+          "correct_option": 1
+        }
+      ]
+    }
+  }
+}
