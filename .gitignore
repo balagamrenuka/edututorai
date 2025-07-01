@@ -1,0 +1,77 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+data/edututor.db
+data/sample_questions.json
+
+# Log files
+*.log
+logs/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Temporary files
+*.tmp
+temp_uploaded.pdf
+
+# System files
+*.bak
+*.backup
+
+# Documentation
+docs/_build/
+
+# Large files
+*.zip
+*.tar.gz
+
+# Visual Studio Code
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
